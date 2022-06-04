@@ -1,5 +1,5 @@
-# .github
+# Organization page settings.
 
-Arquivos de configuração da página da organização =)
+This directory contains the organization profile configuration files.
 
 

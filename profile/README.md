@@ -11,3 +11,21 @@ Via Verbum Paper you can insert graphics for functions (eg 2nd degree functions)
 You can also copy your math expressions to <b>Clipboard</b>. This way you can easily share your math equations with your friends :smiley:
 
 
+:smiley: Author
+---
+
+YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
+Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)
+
+<img src="https://github.com/melchisedech333.png?size=200" height="100" />
+
+
+:scroll: License
+---
+
+[ BSD-3-Clause license](./LICENSE.txt) © Verbum Paper
+
+
+
+
+

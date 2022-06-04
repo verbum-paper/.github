@@ -1,4 +1,4 @@
-<h2 align=center><b>Verbum Paper - Share the math!</b>verbum-paper.github.io</h2>
+<h2 align=center><b>Verbum Paper - Share the math!</b><br>verbum-paper.github.io</h2>
 
 # <div align=center><img src="https://raw.githubusercontent.com/verbum-paper/verbum-paper/main/media/images/1.png" width="80%"></div>
 

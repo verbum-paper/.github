@@ -26,7 +26,7 @@ Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)
 :scroll: License
 ---
 
-[ BSD-3-Clause license](./LICENSE.txt) © Verbum Paper
+[ BSD-3-Clause license](https://raw.githubusercontent.com/verbum-paper/verbum-paper/main/LICENSE.txt) © Verbum Paper
 
 
 

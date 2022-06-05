@@ -13,6 +13,7 @@ Via Verbum Paper you can insert graphics for functions (eg 2nd degree functions)
 
 You can also copy your math expressions to <b>Clipboard</b>. This way you can easily share your math equations with your friends :smiley:
 
+<br>
 
 :smiley: Author
 ---
@@ -22,6 +23,7 @@ Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)
 
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
 
+<br>
 
 :scroll: License
 ---

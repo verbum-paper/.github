@@ -20,8 +20,11 @@ You can also copy your math expressions to <b>Clipboard</b>. This way you can ea
 :smiley: Author
 ---
 
+Sponsor: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
 YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
-Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)
+Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
+Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
+LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152235/)
 
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
 
